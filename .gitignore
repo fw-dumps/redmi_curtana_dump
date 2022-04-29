@@ -1,0 +1,8 @@
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+system_ext/priv-app/Settings/Settings.apk
+bootimg/13_dtbdump_r=_9FB.dtb
+system/system/apex/com.android.vndk.current.apex
+modem.img
+boot.img
